@@ -15,7 +15,7 @@
 		"markdown-it-emoji-mart": "0.1.1",
 		"markdown-it-slack": "1.2.0",
 		"moment-timezone": "0.5.35",
-		"mongodb": "4.5.0",
+		"mongodb": "4.12.0",
 		"newrelic": "8.9.1",
 		"node-fetch": "2.6.7",
 		"nodemailer": "6.7.3",
@@ -64,5 +64,5 @@
 		"degenerator@3.0.2": {
 			"vm2": "3.9.11"
 		}
-	}	
+	}
 }
